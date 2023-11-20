@@ -1,0 +1,32 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.pipenv/
+pipfile.lock
+
+# Compiled Python files
+*.pyc
+
+# User-specific files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
