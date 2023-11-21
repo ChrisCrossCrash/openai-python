@@ -10,10 +10,11 @@ messages = [
         "content": [
             {
                 "type": "text",
-                "text": "What is indicated indicated airspeed in the provided photo?",
+                "text": "Describe the contents of this photo.",
             },
             {
                 "type": "image_url",
+                # A photo of an airplane's instrument panel.
                 "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cessna_172_%282351649088%29_%282%29.jpg/640px-Cessna_172_%282351649088%29_%282%29.jpg",
             },
         ],
